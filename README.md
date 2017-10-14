@@ -1,4 +1,5 @@
 # lets-learn-pull-requests
+Nicholas Latham
 Brewer Slack
 Quinlan (Quin) Bingham
 Kelsey

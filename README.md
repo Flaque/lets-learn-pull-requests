@@ -1,4 +1,5 @@
 # lets-learn-pull-requests
+Kasey Davis
 Nicholas Latham
 Brewer Slack
 Quinlan (Quin) Bingham

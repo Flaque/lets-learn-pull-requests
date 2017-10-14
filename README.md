@@ -1,4 +1,5 @@
 # lets-learn-pull-requests
+Kathrine Gibson
 Kasey Davis
 Nicholas Latham
 Brewer Slack
